@@ -14,3 +14,13 @@ html {
 body {
     background-color: white;
 }
+
+header {
+    background-color: white;
+    position: relative;
+    padding: 1rem;
+}
+
+footer {
+
+}
