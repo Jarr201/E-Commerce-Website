@@ -22,5 +22,7 @@ header {
 }
 
 footer {
-
+    background-color: #BF7631;
+    position: relative;
+    padding: 1rem;
 }
